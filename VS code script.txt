@@ -14,6 +14,7 @@
     "editor.defaultFormatter": "vscode.html-language-features"
   },
   "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#ff0000", 
     "editorGroupHeader.tabsBackground": "#2c2c54",
     "activityBar.background": "#2c2c54",
     "sideBar.background": "#141422",
@@ -24,7 +25,8 @@
     "terminal.background": "#2c2c54",
     "statusBar.background": "#474787",
     "scrollbarSlider.background": "#474787",
-    "scrollbarSlider.hoverBackground": "#706fd3"
+    "scrollbarSlider.hoverBackground": "#706fd3",
+    "editorCursor.foreground": "#ff0000",
   },
   "editor.tokenColorCustomizations": {
     "comments": "#95afc0"
