@@ -1,4 +1,5 @@
-<table class="table table-borderless">
+<h2>VS Code Keyboard Shortcuts</h2>
+  <table class="table table-borderless">
     <thead>
       <tr>
         <th scope="col">Keyboard Shortcuts</th>
@@ -15,6 +16,41 @@
       <td>Open the palette to search</td>
       <td>Ctrl + P</td>
       <td>@cmd + P</td>
+    </tr>
+    <tr>
+      <td>Undo</td>
+      <td>Ctrl + U</td>
+      <td>cmd + U</td>
+    </tr>
+    <tr>
+      <td>Toggle Sidebar</td>
+      <td>Ctrl + B</td>
+      <td>cmd + B</td>
+    </tr>
+    <tr>
+      <td>Search on file</td>
+      <td>Ctrl + F</td>
+      <td>cmd + F</td>
+    </tr>
+    <tr>
+      <td>Find and Replace</td>
+      <td>Ctrl + H</td>
+      <td>cmd + H</td>
+    </tr>
+    <tr>
+      <td>Delete the previous Word Ctrl</td>
+      <td>Ctrl + Backspace</td>
+      <td>cmd + Backspace</td>
+    </tr>
+    <tr>
+      <td>Move line up/Down</td>
+      <td>Alt + up/down arrow</td>
+      <td>option + up/down arrow</td>
+    </tr>
+    <tr>
+      <td>Add multiple cursors</td>
+      <td>Ctrl + Alt +up/down arrow</td>
+      <td>cmd + option + up/down arrow</td>
     </tr>
     </tbody>
   </table>
