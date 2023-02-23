@@ -1,3 +1,20 @@
+
+  <h2>Essential VS Code Extension</h2>
+  <ul>
+    <li>javascript (es6) code snippets</li>
+    <li>eslint</li>
+    <li>material icon theme</li>
+    <li>auto rename tag</li>
+    <li>Prettier Code formatter</li>
+    <li>live server</li>
+    <li>Bracket Pair Colorization Toggler</li>
+    <li>code snap</li>
+    <li>html to css autocompletion</li>
+    <li>css peek</li>
+    <li>html css support</li>
+    <li>color highlight</li>
+  </ul>
+
 <h2>VS Code Keyboard Shortcuts</h2>
   <table class="table table-borderless">
     <thead>
@@ -15,7 +32,7 @@
     <tr>
       <td>Open the palette to search</td>
       <td>Ctrl + P</td>
-      <td>@cmd + P</td>
+      <td>cmd + P</td>
     </tr>
     <tr>
       <td>Undo</td>
