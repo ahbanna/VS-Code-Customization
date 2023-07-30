@@ -1,21 +1,26 @@
+## Top VS Code Extension
+- Javascript (ES6) code snippets
+- ESLint
+- Material icon theme
+- Auto rename tag
+- Prettier Code formatter
+- Live server
+- Bracket Pair Colorization Toggler
+- Code runner
+- Code snap
+- HTML to CSS autocompletion
+- HTML CSS support
+- Css peek
+- Color highlight
+- npm Intellisense
+- Path Intellisense
+- React Extension Pack
+- Reactjs code snippets
+- Search node_modules
+- Tailwind CSS IntelliSense
+- TODO Highlight
 
-  <h2>Essential VS Code Extension</h2>
-  <ul>
-    <li>javascript (es6) code snippets</li>
-    <li>eslint</li>
-    <li>material icon theme</li>
-    <li>auto rename tag</li>
-    <li>Prettier Code formatter</li>
-    <li>live server</li>
-    <li>Bracket Pair Colorization Toggler</li>
-    <li>code snap</li>
-    <li>html to css autocompletion</li>
-    <li>css peek</li>
-    <li>html css support</li>
-    <li>color highlight</li>
-  </ul>
-
-<h2>VS Code Keyboard Shortcuts</h2>
+## VS Code Keyboard Shortcuts</h2>
   <table class="table table-borderless">
     <thead>
       <tr>
